@@ -1,5 +1,7 @@
 # Auto Parts E-Commerce — MyPay Payment Integration
 
+**Note:** Curated excerpt from a private production codebase — not a working clone.
+
 > Extracted from the same private production codebase as the [architecture showcase](https://github.com/mahmoudalfalah/ecommerce-architecture-showcase). This covers everything that happens between "place order" and "order confirmed" — stock reservation, payment gateway, webhook fulfillment, and the callback page.
 
 **Live:** [autoparts.malfalah.com](https://autoparts.malfalah.com) &nbsp;|&nbsp; **Admin:** [autoparts.malfalah.com/admin](https://autoparts.malfalah.com/admin) &nbsp;|&nbsp; `demo@malfalah.com` / `logindemo` _(read-only)_
